@@ -26,5 +26,6 @@ header {
     height: 800px;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 
 }
