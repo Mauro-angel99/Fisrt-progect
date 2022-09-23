@@ -1,0 +1,23 @@
+header {
+    height: 80px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#new-york {
+    background-image: url(https://www.gate309.com/wp-content/uploads/2014/11/new-york-world-hd-wallpaper-1920x1080-9854.jpg);
+}
+
+#tokyo {
+    background-image: url(https://images4.alphacoders.com/562/thumb-1920-562920.jpg);
+}
+
+.background-section {
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
